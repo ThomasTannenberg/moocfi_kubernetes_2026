@@ -20,7 +20,5 @@ install: vm-create cluster-create
 validate:
 	@echo "------------------------- Nodes ----------------------------"
 	KUBECONFIG=$(KUBECONFIG_FILE) kubectl get nodes -o wide
-	@echo "------------------------- Services -------------------------"
-	KUBECONFIG=$(KUBECONFIG_FILE) kubectl get svc -A
 
 cleanup: cluster-delete vm-delete
