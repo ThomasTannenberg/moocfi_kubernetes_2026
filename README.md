@@ -35,4 +35,4 @@ make install
 
 | Exercise | Link |
 |---|---|
-| 1.1 | [Exercise 1.1](https://github.com/ThomasTannenberg/moocfi_kubernetes_2026/tree/1.1/) |
+| 1.1 | [Log output](https://github.com/thomastannenberg/moocfi_kubernetes_2026/tree/1.1/exercises/log-output) |
