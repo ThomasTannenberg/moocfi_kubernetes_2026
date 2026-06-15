@@ -37,4 +37,5 @@ make install
 |---|---|
 | 1.1 | [Log output](https://github.com/thomastannenberg/moocfi_kubernetes_2026/tree/1.1/exercises/log-output) |
 | 1.2 | [Todo app](https://github.com/ThomasTannenberg/moocfi_kubernetes_2026/tree/1.2/exercises/todo-app) |
-| 1.3 | [Log output](https://github.com/ThomasTannenberg/moocfi_kubernetes_2026/tree/1.3/exercises/log-output) |
+| 1.3 | [Declarative approach](https://github.com/ThomasTannenberg/moocfi_kubernetes_2026/tree/1.3/exercises/log-output) |
+| 1.4 | [The project, step 2](https://github.com/ThomasTannenberg/moocfi_kubernetes_2026/tree/1.4/exercises/todo-app) |
